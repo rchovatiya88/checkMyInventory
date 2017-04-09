@@ -1,0 +1,19 @@
+{
+  "name": "checkmyinventory",
+  "version": "1.0.0",
+  "description": "check out of stock email ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchovatiya88/checkMyInventory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchovatiya88/checkMyInventory/issues"
+  },
+  "homepage": "https://github.com/rchovatiya88/checkMyInventory#readme"
+}

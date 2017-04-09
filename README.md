@@ -34,6 +34,16 @@ Account linking, Login to the app using google OAuth.
     - Scope - Gmail API 
         - Refrence link - https://developers.google.com/gmail/api/v1/reference/users/drafts/list
         - Add Scopes 
-            - https://mail.google.com/,
-            - https://www.googleapis.com/auth/gmail.modify,
-            - https://www.googleapis.com/auth/gmail.readonl
+            - https://mail.google.com/
+            - https://www.googleapis.com/auth/gmail.modify
+            - https://www.googleapis.com/auth/gmail.readonly
+    - Google API Console    
+        - Credentials
+        - Skill
+            - Input Redirect URL from AWS to Google API Console
+    - Access Token URI 
+        - https://www.googleapis.com/oauth2/v4/token
+    - Client Secret
+        - Input from Gmail OAuth
+    - Save & Next
+    

@@ -1,7 +1,12 @@
-EmailCheckIntent check my email
-EmailCheckIntent whats in my inbox
-EmailCheckIntent whats new in my inbox
-EmailCheckIntent whats new 
+EmailCheckIntent check email
+EmailCheckIntent Any Mail
+EmailCheckIntent hit me 
+EmailCheckIntent Inbox
+EmailCheckIntent What's new
+EmailCheckIntent Check my inventory
+EmailCheckIntent Inventory
+EmailCheckIntent Check merchandise
+EmailCheckIntent Stock 
 
 SetPinIntent set my pin to {SPin}
 
